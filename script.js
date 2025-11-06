@@ -18,7 +18,7 @@ function addOperation(x) {
     document.getElementById("resultados").value = valores;
 }
 
-
+/
 function calculate() {
     try {
         valores = eval(valores);
